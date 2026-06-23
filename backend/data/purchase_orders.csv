@@ -1,0 +1,41 @@
+po_number,vendor,category,amount_inr,status,requestor,department,order_date,expected_delivery_date
+PO-2026-1001,BrightParts India,Hardware,456788,Pending Approval,Anjali Desai,Engineering,2026-01-31,
+PO-2026-1002,Pioneer IT Distributors,Hardware,58331,Approved,Rohit Mehta,Finance,2026-03-05,2026-03-26
+PO-2026-1003,Vertex Networks,Hardware,192853,Delivered,Karan Verma,Operations,2026-06-04,2026-06-17
+PO-2026-1004,Apex Components,Software License,139194,Pending Approval,Anjali Desai,Finance,2026-04-01,
+PO-2026-1005,BrightParts India,Hardware,144104,Rejected,Sneha Iyer,IT Infrastructure,2026-05-02,
+PO-2026-1006,Pioneer IT Distributors,Hardware,2587689,Approved,Sneha Iyer,Engineering,2026-04-07,2026-04-30
+PO-2026-1007,TechSupply Solutions,Professional Services,48336,Pending Approval,Sneha Iyer,IT Infrastructure,2026-03-05,
+PO-2026-1008,BrightParts India,Office Equipment,46660,Rejected,Anjali Desai,HR,2026-04-05,
+PO-2026-1009,TechSupply Solutions,Professional Services,47469,Approved,Anjali Desai,Procurement,2026-03-08,2026-03-18
+PO-2026-1010,Sterling Logistics,Office Equipment,46943,Pending Approval,Vikram Nair,IT Infrastructure,2026-03-04,
+PO-2026-1011,Apex Components,Cloud Services,67350,Pending Approval,Vikram Nair,Finance,2026-05-12,
+PO-2026-1012,Quantum Cloud Services,Professional Services,119436,Approved,Karan Verma,Engineering,2026-05-28,2026-06-19
+PO-2026-1013,Nova Hardware Ltd,Professional Services,154700,Rejected,Karan Verma,Finance,2026-05-15,
+PO-2026-1014,Sterling Logistics,Hardware,314976,Approved,Anjali Desai,Engineering,2026-04-23,2026-05-17
+PO-2026-1015,BrightParts India,Office Equipment,172696,Pending Approval,Priya Sharma,Engineering,2026-02-03,
+PO-2026-1016,Pioneer IT Distributors,Cloud Services,556700,Approved,Sneha Iyer,Operations,2026-02-14,2026-03-05
+PO-2026-1017,Apex Components,Professional Services,476184,Approved,Rohit Mehta,Engineering,2026-03-22,2026-04-16
+PO-2026-1018,Pioneer IT Distributors,Logistics Services,29504,Approved,Priya Sharma,Procurement,2026-03-28,2026-04-17
+PO-2026-1019,Apex Components,Hardware,4685627,Pending Approval,Karan Verma,IT Infrastructure,2026-03-07,
+PO-2026-1020,Vertex Networks,Hardware,36849,Approved,Anjali Desai,Finance,2026-05-06,2026-05-28
+PO-2026-1021,Global Freight Co.,Cloud Services,160923,Pending Approval,Karan Verma,Engineering,2026-03-25,
+PO-2026-1022,Quantum Cloud Services,Professional Services,164845,Delivered,Rohit Mehta,Finance,2026-03-03,2026-03-10
+PO-2026-1023,Reliance Office Systems,Hardware,110323,Pending Approval,Priya Sharma,IT Infrastructure,2026-01-20,
+PO-2026-1024,TechSupply Solutions,Hardware,4605573,Rejected,Rohit Mehta,Procurement,2026-03-06,
+PO-2026-1025,Nova Hardware Ltd,Professional Services,191356,Approved,Arjun Kapoor,Finance,2026-05-06,2026-06-05
+PO-2026-1026,Quantum Cloud Services,Software License,48187,Delivered,Vikram Nair,Operations,2026-04-20,2026-05-09
+PO-2026-1027,Apex Components,Professional Services,75799,Approved,Divya Rao,Engineering,2026-04-01,2026-05-01
+PO-2026-1028,BrightParts India,Software License,40146,Delivered,Anjali Desai,Operations,2026-02-20,2026-03-05
+PO-2026-1029,Sterling Logistics,Software License,279047,Delivered,Rohit Mehta,IT Infrastructure,2026-05-23,2026-05-28
+PO-2026-1030,BrightParts India,Software License,36826,Delivered,Karan Verma,Operations,2026-01-20,2026-01-30
+PO-2026-1031,Quantum Cloud Services,Hardware,2112343,Delivered,Sneha Iyer,Operations,2026-05-27,2026-06-22
+PO-2026-1032,Sterling Logistics,Software License,19267,Approved,Priya Sharma,Engineering,2026-03-26,2026-04-01
+PO-2026-1033,Apex Components,Logistics Services,189231,Approved,Priya Sharma,Procurement,2026-01-25,2026-02-04
+PO-2026-1034,BrightParts India,Logistics Services,20414,Delivered,Rohit Mehta,Procurement,2026-03-09,2026-04-01
+PO-2026-1035,Vertex Networks,Hardware,159897,Rejected,Sneha Iyer,Finance,2026-03-26,
+PO-2026-1036,TechSupply Solutions,Cloud Services,128642,Delivered,Vikram Nair,IT Infrastructure,2026-01-07,2026-01-26
+PO-2026-1037,Vertex Networks,Logistics Services,1307278,Pending Approval,Sneha Iyer,Finance,2026-04-04,
+PO-2026-1038,BrightParts India,Software License,91352,Delivered,Sneha Iyer,Procurement,2026-05-20,2026-05-25
+PO-2026-1039,Pioneer IT Distributors,Cloud Services,1434474,Approved,Sneha Iyer,IT Infrastructure,2026-02-01,2026-03-01
+PO-2026-1040,Pioneer IT Distributors,Software License,44638,Pending Approval,Vikram Nair,Finance,2026-03-13,
